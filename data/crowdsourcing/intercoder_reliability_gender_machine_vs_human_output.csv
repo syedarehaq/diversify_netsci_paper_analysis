@@ -1,0 +1,18 @@
+FILENAME, intercoder_reliability_gender_machine_vs_human_input.csv
+filesize, 4268 bytes
+n coders, 2
+n cases, 1067
+n decisions, 2134
+average pairwise percent agreement, 96.0637300843%
+pairwise agreement cols 1 & 2, 0.960637300843
+fleiss' kappa, 0.86716424989
+FK observed agreement, 0.960637300843
+FK expected agreement, 0.703673904623
+average pairwise cohen's kappa, 0.867277552036
+pairwise CK cols 1 & 2, 0.867277552036
+krippendorff's alpha, 0.867226497196
+Σcocc, 2050
+Σcnc(nc - 1), 3202366
+ 
+* * *
+ 

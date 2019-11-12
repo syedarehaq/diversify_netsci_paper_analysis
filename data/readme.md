@@ -1,0 +1,1 @@
+The codes or scripts form the src folder looks for data from this directory.

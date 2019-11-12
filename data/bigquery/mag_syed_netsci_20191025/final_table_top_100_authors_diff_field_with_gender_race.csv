@@ -1,0 +1,601 @@
+author_id,author_name,field_name,author_citation_from_papers_in_field,gender,race
+2107003637,hongjiang zhang,graph theory,2453,male,East Asian
+2558675373,jinhui wang,graph theory,1704,male,East Asian
+2121939561,jiawei han,graph theory,2755,male,East Asian
+2002213426,jianbo shi,graph theory,12028,male,East Asian
+2109031554,qiang yang,graph theory,2006,male,East Asian
+2145026360,fan chung,graph theory,2588,female,East Asian
+2167032303,stephen lin,graph theory,1914,male,East Asian
+2149175904,satoru kawai,graph theory,1878,male,East Asian
+2144833106,shuicheng yan,graph theory,3003,male,East Asian
+2141500565,deng cai,graph theory,1723,male,East Asian
+2099847228,benyu zhang,graph theory,2171,male,East Asian
+2157918172,wei ren,graph theory,3210,male,East Asian
+2973687317,t kamada,graph theory,1878,male,East Asian
+2225791946,xiaoyu hu,graph theory,1582,male,East Asian
+2107876906,yong he,graph theory,1952,male,East Asian
+2425744831,dong xu,graph theory,2216,male,East Asian
+2067629764,andrew b kahng,graph theory,1746,male,East Asian
+2119679967,toshio yamagishi,network theory,784,male,East Asian
+2275122832,haejeong park,network theory,673,male,East Asian
+2102240352,beom jun kim,network theory,1023,male,East Asian
+2115325288,seung kee han,network theory,1023,male,East Asian
+2610664851,nan lin,network theory,2091,male,East Asian
+2127952624,yongyeol ahn,network theory,1198,male,East Asian
+2245702983,nhan phan thien,network theory,781,male,East Asian
+2146161571,chang no yoon,network theory,1023,male,East Asian
+2101274274,meeyoung cha,social network,5424,female,East Asian
+2419915511,changhyun lee,social network,4496,male,East Asian
+2157848085,wenpin tsai,social network,8272,male,East Asian
+2158012360,jie tang,social network,5495,male,East Asian
+294294306,ichiro kawachi,social network,5757,male,East Asian
+2157550716,hosung park,social network,4502,male,East Asian
+2191828109,sue moon,social network,5694,female,East Asian
+2610664851,nan lin,social network,4889,male,East Asian
+2122391114,huan liu,social network,3952,male,East Asian
+2121363826,irwin king,social network,4018,male,East Asian
+2132063513,haewoon kwak,social network,5557,male,East Asian
+2584951063,junan lu,complex network,2079,male,East Asian
+2151409538,donguk hwang,complex network,7000,male,East Asian
+2114505317,yong zou,complex network,1932,male,East Asian
+2228415632,changsong zhou,complex network,4430,male,East Asian
+2686795201,linyuan lu,complex network,2762,female,East Asian
+2476563404,yingcheng lai,complex network,4677,male,East Asian
+2105834143,wenwu yu,complex network,3002,male,East Asian
+2104171312,zidong wang,complex network,3514,male,East Asian
+2438622153,wenxu wang,complex network,2037,male,East Asian
+2110250596,jinhu lu,complex network,5219,male,East Asian
+2097525001,jinde cao,complex network,3233,male,East Asian
+2689291799,xiang li,complex network,2020,male,East Asian
+2105916845,hawoong jeong,complex network,14912,male,East Asian
+2422184792,tao zhou,complex network,3972,male,East Asian
+2105958714,yangyu liu,complex network,2362,male,East Asian
+2226227572,xiaofan wang,complex network,4526,male,East Asian
+2162788130,guanrong chen,complex network,12480,male,East Asian
+2157132620,jianxi gao,network science,666,male,East Asian
+2119679967,toshio yamagishi,network science,631,male,East Asian
+2102240352,beom jun kim,network science,1169,male,East Asian
+2103022394,jie wu,network science,655,male,East Asian
+2105916845,hawoong jeong,network science,1821,male,East Asian
+2146161571,chang no yoon,network science,1023,male,East Asian
+2115325288,seung kee han,network science,1023,male,East Asian
+2646458815,juyong park,network science,865,male,East Asian
+2158012360,jie tang,network science,685,male,East Asian
+2157848085,wenpin tsai,social network analysis,2117,male,East Asian
+2166435812,ben y zhao,social network analysis,733,male,East Asian
+2160940721,haixuan yang,social network analysis,806,male,East Asian
+2925179156,belle l tseng,social network analysis,2337,female,East Asian
+2161853255,jennifer xu,social network analysis,750,female,East Asian
+2227744130,michael r lyu,social network analysis,806,male,East Asian
+2650521881,jun zhang,social network analysis,1360,male,East Asian
+2152778655,xuerui wang,social network analysis,948,male,East Asian
+2113869885,xiaodan song,social network analysis,2264,male,East Asian
+2656995071,hao ma,social network analysis,806,male,East Asian
+2122391114,huan liu,social network analysis,814,male,East Asian
+2096153312,han woo park,social network analysis,906,male,East Asian
+2121363826,irwin king,social network analysis,876,male,East Asian
+2485322213,ray reagans,social network analysis,1145,male,Black/African
+341001588,r olfatisaber,graph theory,9075,male,Middle Eastern
+1994589778,tolga eren,graph theory,1506,male,Middle Eastern
+341688178,ali jadbabaie,graph theory,2000,male,Middle Eastern
+270906047,farinaz koushanfar,graph theory,1593,female,Middle Eastern
+131739572,babak pourbohloul,network theory,517,male,Middle Eastern
+368345771,nadav kashtan,complex network,4935,male,Middle Eastern
+341001588,r olfatisaber,complex network,6721,male,Middle Eastern
+2617115591,reuven cohen,network science,573,male,Middle Eastern
+2131580547,alireza abbasi,social network analysis,794,male,Middle Eastern
+2003989378,liaquat hossain,social network analysis,814,male,Middle Eastern
+2617375404,mohsen jamali,social network analysis,972,male,Middle Eastern
+1274808907,olaf sporns,graph theory,8010,male,White/European
+2275925217,reka albert,graph theory,1748,female,White/European
+1979476267,cornelis j stam,graph theory,2769,male,White/European
+252321027,kristofer s j pister,graph theory,1490,male,White/European
+1986498546,daniel a spielman,graph theory,1880,male,White/European
+2124123939,jay yellen,graph theory,1731,male,White/European
+2129291095,andrew v goldberg,graph theory,2716,male,White/European
+2040364821,rainer kummerle,graph theory,1740,male,White/European
+2148854578,roy rada,graph theory,1486,male,White/European
+2046236816,edward t bullmore,graph theory,8992,male,White/European
+2618771649,nenad trinajstic,graph theory,3741,male,White/European
+2102982684,danielle s bassett,graph theory,2526,female,White/European
+2198983026,christos faloutsos,graph theory,3271,male,White/European
+1527874137,c von der malsburg,graph theory,2121,male,White/European
+2236942756,magnus egerstedt,graph theory,1807,male,White/European
+2112574952,noga alon,graph theory,3586,male,White/European
+2798761059,frank harary,graph theory,9754,male,White/European
+2107142044,stephen boyd,graph theory,3418,male,White/European
+2569376642,leo breiman,graph theory,7076,male,White/European
+1719324253,timothy h keitt,graph theory,2097,male,White/European
+2229421897,n kuiger,graph theory,2027,male,White/European
+2235695405,kenneth l calvert,graph theory,1941,male,White/European
+2068860363,ellen zegura,graph theory,1941,female,White/European
+2574613491,jeanmarc fellous,graph theory,2117,male,White/European
+2125030531,leo grady,graph theory,2930,male,White/European
+2097273326,yair weiss,graph theory,1800,male,White/European
+2080025251,seapahn meguerdichian,graph theory,1593,male,White/European
+2036959358,alan frieze,graph theory,2260,male,White/European
+2157757235,dean l urban,graph theory,1801,male,White/European
+431903201,l el ghaoui,graph theory,1503,male,White/European
+1869364368,hafedh mili,graph theory,1486,male,White/European
+2134261273,lance doherty,graph theory,1484,male,White/European
+2087233832,michael luby,graph theory,2023,male,White/European
+2133853112,jonathan l gross,graph theory,1981,male,White/European
+2116846131,j a bondy,graph theory,2316,male,White/European
+2160665213,richard m murray,graph theory,14226,male,White/European
+2128448371,j a fax,graph theory,3449,male,White/European
+2799246700,reinhard diestel,graph theory,4674,male,White/European
+2163898492,brian d o anderson,graph theory,3104,male,White/European
+684323845,gary chartrand,graph theory,1534,male,White/European
+2138526971,george j pappas,graph theory,1487,male,White/European
+2119871048,john c macdonald,graph theory,1536,male,White/European
+2866754299,nooy de w,graph theory,3827,male,White/European
+2198855251,ivan gutman,graph theory,3351,male,White/European
+2109902681,donald m arnold,graph theory,1590,male,White/European
+694899184,margaret c etter,graph theory,1570,female,White/European
+219814910,george karypis,graph theory,3419,male,White/European
+1284005852,evangelos s eleftheriou,graph theory,1582,male,White/European
+2096344980,joel bernstein,graph theory,1536,male,White/European
+2002613147,david eppstein,graph theory,1527,male,White/European
+2394749673,m e j newman,graph theory,7676,male,White/European
+1990986594,laurenz wiskott,graph theory,2193,male,White/European
+2099733369,pierre hansen,graph theory,2152,male,White/European
+1903060929,david peleg,graph theory,1786,male,White/European
+294360276,mihalis yannakakis,graph theory,1931,male,White/European
+2112716162,william t freeman,graph theory,1800,male,White/European
+2047672443,carsten rother,graph theory,1576,male,White/European
+350567680,robert e tarjan,graph theory,3226,male,White/European
+65976662,frank harary,graph theory,2389,male,White/European
+2118429164,antonio ortega,graph theory,1680,male,White/European
+343811326,wolfram burgard,graph theory,2084,male,White/European
+719665695,bela bollobas,graph theory,1796,male,White/European
+2220829341,christos h papadimitriou,graph theory,2027,male,White/European
+2054729031,ellen j bicknell,graph theory,1483,female,White/European
+2073997785,giorgio grisetti,graph theory,1977,male,White/European
+2063844727,pascal frossard,graph theory,1730,male,White/European
+338287261,pierre vandergheynst,graph theory,1595,male,White/European
+2253963398,dean a shepherd,network theory,615,male,White/European
+2084224747,marvin zelen,network theory,570,male,White/European
+2096359564,gordon e grant,network theory,524,male,White/European
+2188000982,christoph hinz,network theory,506,male,White/European
+2940512256,zheng wang,network theory,1223,male,White/European
+2621303246,phillip bonacich,network theory,2688,male,White/European
+1970090850,s boccaletti,network theory,1227,male,White/European
+2070057884,james p bagrow,network theory,1191,male,White/European
+2026708256,aino halinen,network theory,533,female,White/European
+197852453,jesus gomezgardenes,network theory,1223,male,White/European
+2102399848,ian wilkinson,network theory,582,male,White/European
+1977040039,roy haggerty,network theory,506,male,White/European
+1274808907,olaf sporns,network theory,1361,male,White/European
+2289045041,richard m emerson,network theory,631,male,White/European
+183997454,charo i del genio,network theory,1223,male,White/European
+2101794764,douglas r white,network theory,820,male,White/European
+2157809153,alex arenas,network theory,655,male,White/European
+167846847,bernat corominasmurtra,network theory,525,male,White/European
+2146514593,michael l roderick,network theory,506,male,White/European
+2105918681,john s selker,network theory,506,male,White/European
+2121348433,peter g doyle,network theory,1113,male,White/European
+1217235413,robert c brunham,network theory,517,male,White/European
+2193284825,alan s perelson,network theory,487,male,White/European
+2082634338,sverre grimnes,network theory,782,male,White/European
+2149865473,sune lehmann,network theory,1191,male,White/European
+2776314865,n k jerne,network theory,2559,male,White/European
+2152507894,s m dunn,network theory,506,female,White/European
+2166051365,neo d martinez,network theory,1041,male,White/European
+2195478976,albertlaszlo barabasi,network theory,1382,male,White/European
+2132886310,g page west,network theory,609,male,White/European
+2108203046,james w kirchner,network theory,506,male,White/European
+2096778673,douglas l nelson,network theory,1204,male,White/European
+2103831443,arent greve,network theory,929,male,White/European
+2149203006,markus weiler,network theory,506,male,White/European
+2480429623,thomas a schreiber,network theory,1204,male,White/European
+690110789,andrew zacharakis,network theory,609,male,White/European
+2155623579,gaylen n chandler,network theory,609,male,White/European
+2102593089,harrison c white,network theory,710,male,White/European
+2693515964,robert g eccles,network theory,1348,male,White/European
+2955990937,donald b johnson,network theory,743,male,White/European
+732463281,stefan thurner,network theory,573,male,White/European
+2136804811,linton c freeman,network theory,894,male,White/European
+2159818852,jeffrey j mcdonnell,network theory,506,male,White/European
+2851340210,richard p hooper,network theory,506,male,White/European
+51919298,paul j laurienti,network theory,500,male,White/European
+2056846416,mark granovetter,network theory,30736,male,White/European
+2172291164,matthew james keeling,network theory,1133,male,White/European
+2781233234,daniel s halgin,network theory,634,male,White/European
+2126028100,kristian moller,network theory,718,male,White/European
+2174918546,virginia l carrieri,network theory,604,female,White/European
+2193112926,massimiliano zanin,network theory,1224,male,White/European
+43551179,stephen p borgatti,network theory,5106,male,White/European
+2634438002,karen stephenson,network theory,570,female,White/European
+1292959705,mikko kivela,network theory,492,male,White/European
+1519201588,orjan g martinsen,network theory,781,male,White/European
+2788760716,richard j williams,network theory,1041,male,White/European
+164473498,janet w salaff,network theory,929,female,White/European
+1979476267,cornelis j stam,network theory,674,male,White/European
+2062335265,mary rogers gillmore,network theory,631,female,White/European
+2785026101,john scott,network theory,3992,male,White/European
+2120550509,martin g everett,network theory,1947,male,White/European
+2160541616,cathy l mcevoy,network theory,1204,female,White/European
+2159504853,ginestra bianconi,network theory,1335,female,White/European
+2011148271,ken t d eames,network theory,930,male,White/European
+1969576875,kellie b vache,network theory,506,male,White/European
+66175553,lowell w busenitz,network theory,609,male,White/European
+2127339429,helmut elsinger,network theory,542,male,White/European
+2558876329,tim rowley,network theory,1600,male,White/European
+2116687568,j laurie snell,network theory,1113,male,White/European
+2052013336,mason a porter,network theory,772,male,White/European
+2045864003,karl j friston,network theory,673,male,White/European
+2576151295,michael boss,network theory,542,male,White/European
+371328160,albert soleribalta,network theory,518,male,White/European
+1226911827,ulrik brandes,network theory,1495,male,White/European
+2153126677,jennifer a dunne,network theory,841,female,White/European
+2161768608,r i tanner,network theory,785,male,White/European
+2695496630,jane s norbeck,network theory,604,female,White/European
+2619839645,petter holme,network theory,1503,male,White/European
+2343985277,ada m lindsey,network theory,604,female,White/European
+2563470188,martin summer,network theory,542,male,White/European
+1987126337,nicole coviello,network theory,853,female,White/European
+2031433790,karen s cook,network theory,784,female,White/European
+2153634740,teresa nelson,network theory,609,female,White/European
+2171198665,ronald s burt,social network,15078,male,White/European
+2707826896,alessandro vespignani,social network,4285,male,White/European
+2144180807,talcott parsons,social network,7437,male,White/European
+2227171322,michelle girvan,social network,9151,female,White/European
+680051270,martin kilduff,social network,4922,male,White/European
+1916892598,paul dimaggio,social network,3831,male,White/European
+2139330692,james h fowler,social network,8974,male,White/European
+2138805444,duncan j watts,social network,7582,male,White/European
+269061945,charles steinfield,social network,11488,male,White/European
+2012545385,cliff lampe,social network,11994,male,White/European
+1785394198,teresa e seeman,social network,6410,female,White/European
+25748148,romualdo pastorsatorras,social network,3951,male,White/European
+2061781787,jennifer golbeck,social network,4860,female,White/European
+2866754299,nooy de w,social network,3827,male,White/European
+571282587,karl e weick,social network,11386,male,White/European
+2114003991,ralph gross,social network,3834,male,White/European
+2617629123,peter smith ring,social network,3765,male,White/European
+2109177743,a m henderson,social network,7129,male,White/European
+2106237846,peter m blau,social network,11536,male,White/European
+2344016581,carl folke,social network,8421,male,White/European
+2120439602,rob cross,social network,4194,male,White/European
+2120550509,martin g everett,social network,3875,male,White/European
+2199275230,matthew o jackson,social network,7829,male,White/European
+2019216634,caroline haythornthwaite,social network,5069,female,White/European
+149531881,david libennowell,social network,4272,male,White/European
+2582396414,james m cook,social network,8875,male,White/European
+2785026101,john scott,social network,7167,male,White/European
+388119112,cecilia mascolo,social network,3900,female,White/European
+2081356376,thomas ashby wills,social network,9661,male,White/European
+2574684131,robert l kahn,social network,6595,male,White/European
+2343374067,bernardo a huberman,social network,4594,male,White/European
+2013253166,r i m dunbar,social network,5867,male,White/European
+2140027952,morten t hansen,social network,5286,male,White/European
+2071262509,nicole b ellison,social network,22345,female,White/European
+2144042109,yvonne rogers,social network,3862,female,White/European
+2394749673,m e j newman,social network,27330,male,White/European
+2195478976,albertlaszlo barabasi,social network,8463,male,White/European
+2048884539,brian uzzi,social network,6816,male,White/European
+2096207090,lars backstrom,social network,5916,male,White/European
+2149064801,danah boyd,social network,16017,female,White/European
+1707147546,lynn smithlovin,social network,9696,female,White/European
+2116515527,per olsson,social network,4532,male,White/European
+2097180423,roy f baumeister,social network,3977,male,White/European
+1974990196,katherine faust,social network,15231,female,White/European
+2111730653,robert k merton,social network,10803,male,White/European
+2138507242,miller mcpherson,social network,8966,male,White/European
+1976666824,fabricio benevenuto,social network,4260,male,White/European
+892854437,michael haenlein,social network,7281,male,White/European
+2067142896,stanley wasserman,social network,17888,male,White/European
+2108037768,barry wellman,social network,12569,male,White/European
+2950343322,slaven marusic,social network,4397,male,White/European
+1967546095,alex pentland,social network,4109,male,White/European
+2125127983,daniel katz,social network,6601,male,White/European
+2137221145,david kempe,social network,5764,male,White/European
+1866249392,kurt lewin,social network,6951,male,White/European
+2108392708,sheldon cohen,social network,16590,male,White/European
+2153122518,thomas w valente,social network,4743,male,White/European
+2056846416,mark granovetter,social network,48261,male,White/European
+2261367123,jon kleinberg,social network,20583,male,White/European
+2136804811,linton c freeman,social network,11460,male,White/European
+2147130370,james s coleman,social network,14416,male,White/European
+2198983026,christos faloutsos,social network,3886,male,White/European
+2345687710,lada a adamic,social network,9866,female,White/European
+2126599289,andreas m kaplan,social network,7561,male,White/European
+233060415,alessandro acquisti,social network,4301,male,White/European
+2103603712,lisa f berkman,social network,11425,female,White/European
+43551179,stephen p borgatti,social network,11810,male,White/European
+2779405296,cameron marlow,social network,7294,male,White/European
+2891979224,max weber,social network,7129,male,White/European
+2052041758,annalee saxenian,social network,5899,female,White/European
+2207867784,andrew h van de ven,social network,3904,male,White/European
+670945504,kathleen d vohs,social network,3810,female,White/European
+1878631932,jure leskovec,social network,13830,male,White/European
+2009277913,eva tardos,social network,5121,female,White/European
+230485795,urie bronfenbrenner,social network,3770,male,White/European
+1914371560,daniel j brass,social network,9317,male,White/European
+720924201,nicholas a christakis,social network,8869,male,White/European
+2105050551,jenny preece,social network,3842,female,White/European
+652370045,alejandro portes,social network,11893,male,White/European
+2137065126,albert bandura,social network,7459,male,White/European
+2015972736,alan mislove,social network,6185,male,White/European
+369089569,tom a b snijders,social network,4829,male,White/European
+1908336426,tamas vicsek,complex network,6911,male,White/European
+60870194,fredrik liljeros,complex network,3028,male,White/European
+25748148,romualdo pastorsatorras,complex network,9774,male,White/European
+2128448371,j a fax,complex network,6405,male,White/European
+157725681,hernan a makse,complex network,3631,male,White/European
+197852453,jesus gomezgardenes,complex network,3073,male,White/European
+2012695975,jonathan p sleeman,complex network,2729,male,White/European
+2707826896,alessandro vespignani,complex network,12010,male,White/European
+2160665213,richard m murray,complex network,6419,male,White/European
+1833804002,imre derenyi,complex network,4352,male,White/European
+2104880928,massimo marchiori,complex network,2541,male,White/European
+2035405562,albert diazguilera,complex network,2355,male,White/European
+2046236816,edward t bullmore,complex network,12267,male,White/European
+2127341518,carl t bergstrom,complex network,2933,male,White/European
+1988659955,martijn p van den heuvel,complex network,2735,male,White/European
+2001450853,jean paul thiery,complex network,2729,male,White/European
+1184420917,marta salespardo,complex network,2026,female,White/European
+1826799450,kimmo kaski,complex network,3438,male,White/European
+133190836,gonzalo travieso,complex network,2037,male,White/European
+1274808907,olaf sporns,complex network,16181,male,White/European
+2171851496,luis a nunes amaral,complex network,8866,male,White/European
+1157737953,alain barrat,complex network,5778,male,White/European
+2542692433,s n dorogovtsev,complex network,4798,male,White/European
+718552027,piet van mieghem,complex network,1953,male,White/European
+2275925217,reka albert,complex network,48273,female,White/European
+2710718375,j f f mendes,complex network,4552,male,White/European
+2188681046,illes j farkas,complex network,4003,male,White/European
+2157086078,yamir moreno,complex network,13020,male,White/European
+2102982684,danielle s bassett,complex network,4892,female,White/European
+2063510571,jonathan f donges,complex network,2128,male,White/European
+2054945303,vito latora,complex network,11229,male,White/European
+2071162969,mikail rubinov,complex network,5060,male,White/European
+190349376,sophie achard,complex network,2764,female,White/European
+1515786896,gabor csardi,complex network,3164,male,White/European
+2055318561,zoltan neda,complex network,2177,male,White/European
+1403534087,stefan bornholdt,complex network,2032,male,White/European
+2138805444,duncan j watts,complex network,28966,male,White/European
+2046927040,uri alon,complex network,5107,male,White/European
+147526709,tamas nepusz,complex network,3649,female,White/European
+2367545176,ricard v sole,complex network,2309,male,White/European
+2057996487,zoltan n oltvai,complex network,4256,male,White/European
+1979476267,cornelis j stam,complex network,2584,male,White/European
+2142498905,alexei vazquez,complex network,1971,male,White/European
+2394749673,m e j newman,complex network,23340,male,White/European
+1970090850,s boccaletti,complex network,8819,male,White/European
+111975288,marian boguna,complex network,2980,male,White/European
+2619839645,petter holme,complex network,2849,male,White/European
+1954994128,roger guimera,complex network,6584,male,White/European
+2200137649,ron milo,complex network,4935,male,White/European
+1963961978,marc barthelemy,complex network,8148,male,White/European
+2185101206,shai s shenorr,complex network,4563,male,White/European
+1999253335,martin rosvall,complex network,3099,male,White/European
+2164983246,jukkapekka onnela,complex network,2832,male,White/European
+2157809153,alex arenas,complex network,7190,male,White/European
+2948074207,jari saramaki,complex network,3711,male,White/European
+1387271665,antonio scala,complex network,2472,male,White/European
+2122189410,santo fortunato,complex network,4976,male,White/European
+224018203,steven h strogatz,complex network,33711,male,White/European
+2109374168,michael small,complex network,2367,male,White/European
+630663198,shlomo havlin,complex network,7440,male,White/European
+2786058412,gergely palla,complex network,4044,male,White/European
+2420755856,h eugene stanley,complex network,3409,male,White/European
+2472878894,jurgen kurths,complex network,1989,male,White/European
+2627549943,h e stanley,complex network,3871,male,White/European
+1978829372,norbert marwan,complex network,2517,male,White/European
+2021652723,guido caldarelli,complex network,2922,male,White/European
+2195478976,albertlaszlo barabasi,complex network,58434,male,White/European
+2016077728,adilson e motter,complex network,4076,male,White/European
+739556534,b tombor,complex network,3719,male,White/European
+2165520262,francisco a rodrigues,complex network,2737,male,White/European
+1908222809,paolo crucitti,complex network,2051,male,White/European
+8917310,dmitri b chklovskii,complex network,4563,male,White/European
+2011752965,jeanjacques e slotine,complex network,1976,male,White/European
+1878631932,jure leskovec,complex network,2656,male,White/European
+2919421740,jurgen kurths,complex network,5798,male,White/European
+688088336,shalev itzkovitz,complex network,5002,male,White/European
+1887629390,janos kertesz,complex network,4321,male,White/European
+2191476964,e ravasz,complex network,3505,male,White/European
+1998335764,andrej mrvar,network science,983,male,White/European
+51919298,paul j laurienti,network science,854,male,White/European
+2767410593,albertlszl barabsi,network science,577,male,White/European
+1974990196,katherine faust,network science,14367,female,White/European
+2120550509,martin g everett,network science,1960,male,White/European
+2167694815,vladimir batagelj,network science,1250,male,White/European
+2094990544,andrew zalesky,network science,536,male,White/European
+2707826896,alessandro vespignani,network science,516,male,White/European
+2394749673,m e j newman,network science,29296,male,White/European
+2015972736,alan mislove,network science,2393,male,White/European
+630663198,shlomo havlin,network science,1384,male,White/European
+1688201687,kevin macon,network science,1019,male,White/European
+274731230,eric d kolaczyk,network science,569,male,White/European
+2162788439,thomas richardson,network science,1019,male,White/European
+670901035,john skvoretz,network science,1283,male,White/European
+2227171322,michelle girvan,network science,8751,female,White/European
+2619839645,petter holme,network science,1332,male,White/European
+1353714631,andrej krevl,network science,1045,male,White/European
+1913813444,leon danon,network science,835,male,White/European
+2050186710,garry robins,network science,797,male,White/European
+2054945303,vito latora,network science,690,male,White/European
+2286602817,francesc giralt,network science,835,male,White/European
+2653049831,elizabeth freeman,network science,681,female,White/European
+2060843742,alain degenne,network science,526,male,White/European
+71963461,filip agneessens,network science,1253,male,White/European
+1999253335,martin rosvall,network science,620,male,White/European
+2254745624,attila szolnoki,network science,998,male,White/European
+2062335265,mary rogers gillmore,network science,631,female,White/European
+1878631932,jure leskovec,network science,1956,male,White/European
+60142663,sergey v buldyrev,network science,588,male,White/European
+43551179,stephen p borgatti,network science,3428,male,White/European
+1326542699,matjaz perc,network science,655,male,White/European
+2420755856,h eugene stanley,network science,612,male,White/European
+1226911827,ulrik brandes,network science,582,male,White/European
+2781233234,daniel s halgin,network science,582,male,White/European
+2167952064,desmond j higham,network science,532,male,White/European
+2026323400,ronald rousseau,network science,747,male,White/European
+2126099518,john w mitchell,network science,709,male,White/European
+2094563821,matjaž perc,network science,858,male,White/European
+1954994128,roger guimera,network science,836,male,White/European
+2157086078,yamir moreno,network science,785,male,White/European
+1979476267,cornelis j stam,network science,689,male,White/European
+2157809153,alex arenas,network science,931,male,White/European
+2153896853,giacomo fiumara,network science,544,male,White/European
+2166132336,massimiliano marcon,network science,2311,male,White/European
+285776135,michel forse,network science,526,male,White/European
+2052013336,mason a porter,network science,1996,male,White/European
+2076380449,jonathan h burdette,network science,680,male,White/European
+2031433790,karen s cook,network science,940,female,White/European
+197852453,jesus gomezgardenes,network science,687,male,White/European
+2096207090,lars backstrom,network science,586,male,White/European
+2545088079,tore opsahl,network science,1253,male,White/European
+2191476964,e ravasz,network science,1738,male,White/European
+2067142896,stanley wasserman,network science,14149,male,White/European
+2199275230,matthew o jackson,network science,2863,male,White/European
+2130754085,andrew tomkins,network science,1120,male,White/European
+2046236816,edward t bullmore,network science,7126,male,White/European
+224018203,steven h strogatz,network science,26857,male,White/European
+2627815897,andras schubert,network science,1738,male,White/European
+369089569,tom a b snijders,network science,976,male,White/European
+2074339028,alex fornito,network science,725,male,White/European
+2138805444,duncan j watts,network science,27486,male,White/European
+2035405562,albert diazguilera,network science,839,male,White/European
+2195478976,albertlaszlo barabasi,network science,4457,male,White/European
+2021322682,michael batty,network science,632,male,White/European
+2634438002,karen stephenson,network science,570,female,White/European
+2289045041,richard m emerson,network science,631,male,White/European
+2084224747,marvin zelen,network science,570,male,White/European
+2203993229,pasquale de meo,network science,525,male,White/European
+62967857,peter druschel,network science,2393,male,White/European
+2785026101,john scott,network science,5686,male,White/European
+2310195912,mathieu bastian,network science,2889,male,White/European
+2117376714,peter j mucha,network science,1936,male,White/European
+1908336426,tamas vicsek,network science,1746,male,White/European
+2102982684,danielle s bassett,network science,760,female,White/European
+2014009537,l m floria,network science,638,male,White/European
+2130548382,jasmine novak,network science,1115,female,White/European
+2306016062,mathieu jacomy,network science,2906,male,White/European
+2122189410,santo fortunato,network science,578,male,White/European
+2317295969,sebastien heymann,network science,2895,male,White/European
+2136804811,linton c freeman,network science,8785,male,White/European
+2164983246,jukkapekka onnela,network science,1751,male,White/European
+2055318561,zoltan neda,network science,1749,male,White/European
+2339985195,evelien otte,network science,725,female,White/European
+1274808907,olaf sporns,network science,8975,male,White/European
+2066282134,tim finin,social network analysis,2213,male,White/European
+2866754299,nooy de w,social network analysis,3827,male,White/European
+2558876329,tim rowley,social network analysis,1601,male,White/European
+2288765026,scott l feld,social network analysis,1163,male,White/European
+2167694815,vladimir batagelj,social network analysis,2774,male,White/European
+2096675187,ezra w zuckerman,social network analysis,1145,male,White/European
+2163866255,nick lee,social network analysis,1026,male,White/European
+2137221145,david kempe,social network analysis,4185,male,White/European
+2963263805,david a kenny,social network analysis,2600,male,White/European
+2108037768,barry wellman,social network analysis,1765,male,White/European
+2139330692,james h fowler,social network analysis,1258,male,White/European
+2307118047,philippa pattison,social network analysis,1160,female,White/European
+1226911827,ulrik brandes,social network analysis,748,male,White/European
+2923857835,deborah a kashy,social network analysis,2600,female,White/European
+1974990196,katherine faust,social network analysis,14467,female,White/European
+2094778777,peter d hoff,social network analysis,1087,male,White/European
+577668700,samuel d gosling,social network analysis,818,male,White/European
+2153122518,thomas w valente,social network analysis,2018,male,White/European
+1912508384,peter j carrington,social network analysis,1928,male,White/European
+217461061,noel m tichy,social network analysis,1270,male,White/European
+2288727862,francesco lissoni,social network analysis,749,male,White/European
+43551179,stephen p borgatti,social network analysis,12340,male,White/European
+2120550509,martin g everett,social network analysis,8700,male,White/European
+2181857560,mark s handcock,social network analysis,1109,male,White/European
+2035033153,amanda j broderick,social network analysis,1026,female,White/European
+2067196623,martin ester,social network analysis,832,male,White/European
+1979641284,mark s ackerman,social network analysis,1391,male,White/European
+2020973255,william l cook,social network analysis,2600,male,White/European
+668764113,ben shneiderman,social network analysis,1206,male,White/European
+680051270,martin kilduff,social network analysis,1155,male,White/European
+2631401453,elisa giuliani,social network analysis,1444,female,White/European
+2097966160,johan bollen,social network analysis,1103,male,White/European
+1993486354,loet leydesdorff,social network analysis,1892,male,White/European
+2345687710,lada a adamic,social network analysis,1395,female,White/European
+2136804811,linton c freeman,social network analysis,14734,male,White/European
+1980542405,karl e bauman,social network analysis,1103,male,White/European
+2099416691,martin bell,social network analysis,772,male,White/European
+2041863746,michael l tushman,social network analysis,1110,male,White/European
+109847712,wouter de nooy,social network analysis,2444,male,White/European
+2120439602,rob cross,social network analysis,1714,male,White/European
+2052065285,adrian e raftery,social network analysis,1101,male,White/European
+2067142896,stanley wasserman,social network analysis,16973,male,White/European
+2810629069,andrew parker,social network analysis,1715,male,White/European
+2137656347,laura garton,social network analysis,808,female,White/European
+2063416482,darren p croft,social network analysis,1093,male,White/European
+2128339556,christopher p diehl,social network analysis,812,male,White/European
+2056846416,mark granovetter,social network analysis,25828,male,White/European
+1984940772,lise getoor,social network analysis,1260,female,White/European
+2019216634,caroline haythornthwaite,social network analysis,1029,female,White/European
+1914371560,daniel j brass,social network analysis,2557,male,White/European
+2195215812,christina prell,social network analysis,969,female,White/European
+2683108562,susan t ennett,social network analysis,1297,female,White/European
+2131293038,andrew mccallum,social network analysis,1225,male,White/European
+2061781787,jennifer golbeck,social network analysis,860,female,White/European
+2011912922,peter a gloor,social network analysis,764,male,White/European
+2261367123,jon kleinberg,social network analysis,4639,male,White/European
+720924201,nicholas a christakis,social network analysis,1127,male,White/European
+205378489,stefano breschi,social network analysis,851,male,White/European
+2303511158,giuseppe labianca,social network analysis,2273,male,White/European
+419511944,ron boschma,social network analysis,992,male,White/European
+1998335764,andrej mrvar,social network analysis,2452,male,White/European
+280094779,przemyslaw kazienko,social network analysis,766,male,White/European
+97704749,herbert van de sompel,social network analysis,1103,male,White/European
+2009277913,eva tardos,social network analysis,4165,female,White/European
+2115938885,anne l j ter wal,social network analysis,797,male,White/European
+2136431451,bryce boe,social network analysis,733,male,White/European
+2785026101,john scott,social network analysis,7898,male,White/European
+2098520675,kathleen m carley,social network analysis,1853,female,White/European
+2156066232,jens krause,social network analysis,899,male,White/European
+2156637604,caroline s wagner,social network analysis,825,female,White/European
+2184928795,christo wilson,social network analysis,733,male,White/European
+2306111812,richard james,social network analysis,1140,male,White/European
+2312484960,jo brown,social network analysis,1026,male,White/European
+2119113135,marc a smith,social network analysis,929,male,White/European
+2075617528,damien r farine,social network analysis,901,male,White/European
+2026323400,ronald rousseau,social network analysis,761,male,White/European
+2648312118,irene sendinanadal,network theory,1224,female,Hispanic/Latino
+2120857029,luciano da fontoura costa,network theory,501,male,Hispanic/Latino
+2131354393,regino criado,network theory,1287,male,Hispanic/Latino
+2754191259,miguel romance,network theory,1289,male,Hispanic/Latino
+2163986955,sergio gomez,network theory,530,male,Hispanic/Latino
+2163979423,ernesto estrada,complex network,3087,male,Hispanic/Latino
+2120857029,luciano da fontoura costa,complex network,2147,male,Hispanic/Latino
+2095945270,mario chavez,complex network,7226,male,Hispanic/Latino
+2163979423,ernesto estrada,network science,753,male,Hispanic/Latino
+2147903670,emilio ferrara,network science,598,male,Hispanic/Latino
+1207569220,charles j fombrun,social network analysis,1275,male,Hispanic/Latino
+606963677,andres corradaemmanuel,social network analysis,737,male,Hispanic/Latino
+2098642314,mani srivastava,graph theory,1593,male,Indian Subcontinet
+2161062602,vipin kumar,graph theory,2560,male,Indian Subcontinet
+2155470367,devavrat shah,graph theory,2523,male,Indian Subcontinet
+2081555490,usha nandini raghavan,graph theory,1632,female,Indian Subcontinet
+2136556746,jitendra malik,graph theory,12828,male,Indian Subcontinet
+2108719851,balaji prabhakar,graph theory,2330,male,Indian Subcontinet
+2079810293,soundar kumara,graph theory,1689,male,Indian Subcontinet
+2160677743,arpita ghosh,graph theory,2330,male,Indian Subcontinet
+2133515444,miodrag potkonjak,graph theory,1602,male,Indian Subcontinet
+2173329291,samrat bhattacharjee,graph theory,1502,male,Indian Subcontinet
+2100243203,sunil k narang,graph theory,1598,male,Indian Subcontinet
+2648357322,u s r murty,graph theory,1767,male,Indian Subcontinet
+2024718400,gautam ahuja,network theory,3224,male,Indian Subcontinet
+2076073623,murugesu sivapalan,network theory,506,male,Indian Subcontinet
+2511378051,nitin nohria,network theory,1348,male,Indian Subcontinet
+2236981363,ranjay gulati,social network,7843,male,Indian Subcontinet
+2636163417,ajay mehra,social network,3813,male,Indian Subcontinet
+2038968579,jayavardhana gubbi,social network,4397,male,Indian Subcontinet
+2606864221,sumantra ghoshal,social network,3862,male,Indian Subcontinet
+737083156,rajkumar buyya,social network,4419,male,Indian Subcontinet
+1982116827,krishna p gummadi,social network,8931,male,Indian Subcontinet
+2025344509,marimuthu palaniswami,social network,4429,male,Indian Subcontinet
+2152523866,bobby bhattacharjee,network science,2311,male,Indian Subcontinet
+2577876495,ravi kumar,network science,1121,male,Indian Subcontinet
+1982116827,krishna p gummadi,network science,2311,male,Indian Subcontinet
+2024941725,krishna p n puttaswamy,social network analysis,733,male,Indian Subcontinet
+2233085243,manju k ahuja,social network analysis,796,female,Indian Subcontinet
+2636163417,ajay mehra,social network analysis,1788,male,Indian Subcontinet
+2146335907,charu c aggarwal,social network analysis,838,male,Indian Subcontinet
+2059565384,akshay java,social network analysis,2213,male,Indian Subcontinet

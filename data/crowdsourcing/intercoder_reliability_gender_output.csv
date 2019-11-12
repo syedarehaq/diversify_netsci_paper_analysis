@@ -1,0 +1,22 @@
+FILENAME, intercoder_reliability_gender_input.csv
+filesize, 300 bytes
+n coders, 3
+n cases, 50
+n decisions, 150
+average pairwise percent agreement, 98.6666666667%
+pairwise agreement cols 1 & 3, 0.98
+pairwise agreement cols 1 & 2, 1
+pairwise agreement cols 2 & 3, 0.98
+fleiss' kappa, 0.967693301745
+FK observed agreement, 0.986666666667
+FK expected agreement, 0.587288888889
+average pairwise cohen's kappa, 0.968071519796
+pairwise CK cols 1 & 3, 0.952107279693
+pairwise CK cols 1 & 2, 1
+pairwise CK cols 2 & 3, 0.952107279693
+krippendorff's alpha, 0.967908679733
+Σcocc, 148
+Σcnc(nc - 1), 13064
+ 
+* * *
+ 
